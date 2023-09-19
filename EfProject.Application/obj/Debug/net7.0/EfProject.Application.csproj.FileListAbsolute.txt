@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EfProject.Application\bin\Debug\net7.0\EfProject.Application.deps.json
+C:\Users\Asus\source\repos\EfProject.Application\bin\Debug\net7.0\EfProject.Application.dll
+C:\Users\Asus\source\repos\EfProject.Application\bin\Debug\net7.0\EfProject.Application.pdb
+C:\Users\Asus\source\repos\EfProject.Application\bin\Debug\net7.0\EfProject.Domain.dll
+C:\Users\Asus\source\repos\EfProject.Application\bin\Debug\net7.0\EfProject.Domain.pdb
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.csproj.CopyComplete
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.dll
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\refint\EfProject.Application.dll
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\EfProject.Application.pdb
+C:\Users\Asus\source\repos\EfProject.Application\obj\Debug\net7.0\ref\EfProject.Application.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EfProject.Application/1.0.0": {
+        "dependencies": {
+          "EfProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EfProject.Application.dll": {}
+        }
+      },
+      "EfProject.Domain/1.0.0": {
+        "runtime": {
+          "EfProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EfProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EfProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
